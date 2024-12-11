@@ -1,0 +1,2 @@
+anem a renombrar tots els fitxers per a que aquesta carpeta puga ser util
+commit 6
